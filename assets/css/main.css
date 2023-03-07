@@ -4032,18 +4032,30 @@ input, select, textarea {
 				background: #1f1d1e; }
 			.skills-sec .progress-bar-graph .bar-wrap.git-bar span:after {
 				background: #1f1d1e; }
-				.skills-sec .progress-bar-graph .bar-wrap.express-bar span {
-					background: #8bbf3e; }
-				.skills-sec .progress-bar-graph .bar-wrap.express-bar span:after {
-					background: #8bbf3e; }
-					.skills-sec .progress-bar-graph .bar-wrap.node-bar span {
-						background: #619b19; }
-					.skills-sec .progress-bar-graph .bar-wrap.node-bar span:after {
-						background: #619b19; }
-						.skills-sec .progress-bar-graph .bar-wrap.fire-bar span {
-							background: #c7b300; }
-						.skills-sec .progress-bar-graph .bar-wrap.fire-bar span:after {
-							background: #c7b300; }
+			.skills-sec .progress-bar-graph .bar-wrap.express-bar span {
+				background: #8bbf3e; }
+			.skills-sec .progress-bar-graph .bar-wrap.express-bar span:after {
+				background: #8bbf3e; }
+			.skills-sec .progress-bar-graph .bar-wrap.node-bar span {
+				background: #619b19; }
+			.skills-sec .progress-bar-graph .bar-wrap.node-bar span:after {
+				background: #619b19; }
+			.skills-sec .progress-bar-graph .bar-wrap.fire-bar span {
+				background: #c7b300; }
+			.skills-sec .progress-bar-graph .bar-wrap.fire-bar span:after {
+				background: #c7b300; }
+			.skills-sec .progress-bar-graph .bar-wrap.nest-bar span {
+				background: #00a357; }
+			.skills-sec .progress-bar-graph .bar-wrap.nest-bar span:after {
+				background: #00a357; }
+			.skills-sec .progress-bar-graph .bar-wrap.next-bar span {
+				background: #c08d00; }
+			.skills-sec .progress-bar-graph .bar-wrap.next-bar span:after {
+				background: #c08d00; }
+			.skills-sec .progress-bar-graph .bar-wrap.graph-bar span {
+				background: #aa00c0; }
+			.skills-sec .progress-bar-graph .bar-wrap.graph-bar span:after {
+				background: #aa00c0; }
 
 			
 
